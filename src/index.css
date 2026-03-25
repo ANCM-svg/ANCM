@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Montserrat:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Alice", serif;
+  --font-sans: "Montserrat", sans-serif;
+  
+  --color-ancm-yellow: #fac729;
+  --color-ancm-cream: #fff5ed;
+  --color-ancm-red: #e75e5f;
+  --color-ancm-pink: #f193bd;
+  --color-ancm-green: #25884f;
+  --color-ancm-lightblue: #51aee2;
+  --color-ancm-dark: #272c38;
+  --color-ancm-blue: #375ea9;
+}
